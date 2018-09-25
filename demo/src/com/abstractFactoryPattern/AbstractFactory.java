@@ -12,7 +12,7 @@ public abstract class AbstractFactory
 	abstract Color getColor(String color);
 
 	/**
-	 * 获取画
+	 * 获取形状
 	 */
 	abstract Shape getShape(String shape);
 }
