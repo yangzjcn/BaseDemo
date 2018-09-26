@@ -39,7 +39,7 @@ public class AbstractFactoryPatternDemo
 
 		// get an object of Color Blue
 		Color color3 = colorFactory.getColor("BLUE");
-		color3.fill(); // call fill method of Color Blue
+		color3.fill(); // call fill method of Color Blue 
 	}
 
 }
