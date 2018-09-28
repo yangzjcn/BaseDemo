@@ -1,0 +1,9 @@
+com.innerclass
+com.innerclass.base：内部类了解
+com.innerclass.four：内部类总结
+	内部类大致上分为4种：
+	1.anonymousInner匿名内部类
+	2.localInner局部内部类
+	3.memberInner成员内部类
+	4.staticInner静态内部类
+	
